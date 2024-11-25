@@ -1,42 +1,50 @@
-# 👋 Hi, I'm Abdullah Almsaodi!
 
-🌟 **Passionate Full Stack Developer | Open-Source Enthusiast | Tech Enthusiast**  
-📍 Sana’a, Yemen | 🌐 [LinkedIn](https://www.linkedin.com/in/your-profile/) | 💼 [Portfolio](https://abdullah-portfolio-link.com)
 
----
-
-## 🚀 About Me
-
-I am a motivated Full Stack Developer specializing in creating innovative and scalable solutions. With a solid foundation in Laravel, Angular, and Flutter, I love collaborating with teams to solve real-world challenges, from e-commerce platforms to learning management systems.
+# 👋 Hello! I'm Abdullah Almsaodi  
+**`Full Stack Developer | Open Source Enthusiast | Problem Solver`**
 
 ---
 
-## 🛠️ Skills & Technologies
-
-- **Languages**: PHP, JavaScript, Dart, SQL  
-- **Frameworks & Libraries**: Laravel, Angular, Flutter, Next.js  
-- **Tools**: Git, Postman, Jira, Docker  
-
----
-
-## 📌 Featured Projects
-
-### 🛒 [Furni-Store App](https://github.com/Abdullah-Almsaodi/furni-store)
-A comprehensive furniture e-commerce platform integrating APIs for mobile and web applications.
-
-### 🎓 [Learning Management System (LMS)](https://github.com/Abdullah-Almsaodi/LMS)
-A digital platform to enhance learning experiences for students and educators.
+### 🚀 About Me
+- 🌟 Passionate about creating impactful solutions in **Full Stack Development**, **API Integration**, and **UI/UX Design**.
+- 🎓 Graduate in **Computer Science** from Sana'a University.
+- 📖 Always learning new technologies: currently exploring **Next.js**, **Laravel**, and **Flutter**.
 
 ---
 
-## 🌟 GitHub Stats
+### 🛠️ Technologies & Tools
+**Languages**:  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdullah-Almsaodi&show_icons=true&theme=radical)
+**Frameworks**:  
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)  
+![React](https://img.shields.io/badge/React-DD0031?style=flat-square&logo=angular&logoColor=white)
+
+**Tools & Platforms**:  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)  
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira-software&logoColor=white)
 
 ---
 
-## 🤝 Let’s Connect!
+### 📈 GitHub Stats
+![Abdullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdullah-Almsaodi&show_icons=true&theme=radical)
 
-- 💌 **Email**: abdullah.almsaodi@example.com  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/your-profile/)  
-- 🚀 [Portfolio](https://abdullah-portfolio-link.com)
+---
+
+### 🌟 Featured Projects
+- [**Learning Management System**](https://github.com/Abdullah-Almsaodi/LMS-Stakeholder-Scenarios): A digital education platform for Sana'a University.  
+- [**Furni Store**](https://github.com/Abdullah-Almsaodi/furni-store): An e-commerce platform with a seamless API for web and mobile.  
+- [**Portfolio**](https://github.com/Abdullah-Almsaodi): Showcasing my journey, projects, and achievements using **Next.js**.
+
+---
+
+### 🤝 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdullah%20Almsaodi-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/abdullah-almsaodi)  
+
+---
+
+### 💡 Fun Fact
+✨ I believe every line of code has the potential to impact lives positively, and I aim to create solutions that last!
+
+---
