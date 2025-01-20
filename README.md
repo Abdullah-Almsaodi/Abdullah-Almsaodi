@@ -8,14 +8,22 @@
 ---
 
 </div>
-
 <br/>
+<br/>
+
+<div align=center>
 
 ### 🚀 About Me
 
+<p align="center" style="text-align: justify">
 I am a motivated Full Stack Developer specializing in creating innovative and scalable solutions. With a solid Laravel, React, and Flutter foundation, I love collaborating with teams to solve real-world challenges, from e-commerce platforms to learning management systems.
 
----
+</p>
+
+</div>
+<br/>
+
+<div align=center>
 
 ### 🛠️ Technologies & Tools
 
@@ -26,6 +34,9 @@ I am a motivated Full Stack Developer specializing in creating innovative and sc
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira-software&logoColor=white)
 
 ---
+
+</div>
+<br/>
 
 <div align=center>
   <h1>📊GitHub Stats:</h1>
