@@ -31,22 +31,3 @@ I am a motivated Full Stack Developer specializing in creating innovative and sc
 
 <br/>
 <br/>
-
-<div align=center>
-  <h2> My Contributions</h2>
-  <br>
-  <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Abdullah-Almsaodi/Abdullah-Almsaodi/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Abdullah-Almsaodi/Abdullah-Almsaodi/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/Abdullah-Almsaodi/Abdullah-Almsaodi/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-</div>
