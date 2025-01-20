@@ -1,9 +1,15 @@
+<div align=center>
+
 ## **`Final-Year Computer Science Student | Full Stack Developer | Aspiring Software Engineer | Tech Interested `**
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-almsaodi-296279246?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BaQ08Ur6%2BR%2BuQa9P1yvUJiw%3D%3D) [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/AlmsaodiTech) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100073455654133)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/abdullah.almsaodi?igsh=OGQ5ZDc2ODk2ZA==)
 
 ---
+
+</div>
+
+<br/>
 
 ### 🚀 About Me
 
