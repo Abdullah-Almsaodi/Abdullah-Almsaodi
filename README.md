@@ -32,14 +32,31 @@
 <br/>
 <br/>
 
-<div align=center>
-  <h1>📊GitHub Stats:</h1>
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-Almsaodi&theme=transparent&hide_border=true&include_all_commits=false&count_private=true" />
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah-Almsaodi&theme=transparent&hide_border=true" />
-  <br />
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Almsaodi&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
+<div align="center">
+  <h1>📊 GitHub Stats:</h1>
+  
+  <!-- GitHub Stats Card -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Abdullah-Almsaodi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" 
+    alt="Abdullah's GitHub Stats" 
+  />
+  
+  <br /> <!-- Add spacing -->
+  
+  <!-- GitHub Streak Stats Card -->
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah-Almsaodi&theme=dark&hide_border=false" 
+    alt="Abdullah's GitHub Streak Stats" 
+  />
+  
+  <br /> <!-- Add spacing -->
+  
+  <!-- Top Languages Card -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Almsaodi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&exclude_repo=repo1,repo2" 
+    alt="Abdullah's Top Languages" 
+  />
 </div>
-
 <br/>
 <br/>
 
