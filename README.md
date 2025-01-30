@@ -44,10 +44,10 @@
   <br /> <!-- Add spacing -->
   
   <!-- GitHub Streak Stats Card -->
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah-Almsaodi&theme=dark&hide_border=false" 
-    alt="Abdullah's GitHub Streak Stats" 
-  />
+ <img 
+  src="https://streak-stats.demolab.com/?user=Abdullah-Almsaodi&theme=dark&hide_border=false" 
+  alt="Abdullah's GitHub Streak Stats" 
+/>
   
   <br /> <!-- Add spacing -->
   
