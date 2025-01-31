@@ -44,10 +44,7 @@
   <br /> <!-- Add spacing -->
   
   <!-- GitHub Streak Stats Card -->
- <img 
-  src="https://streak-stats.demolab.com/?user=Abdullah-Almsaodi&theme=dark&hide_border=false" 
-  alt="Abdullah's GitHub Streak Stats" 
-/>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Abdullah-Almsaodi&theme=dark" alt="GitHub Streak" /></a>
   
   <br /> <!-- Add spacing -->
   
