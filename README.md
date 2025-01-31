@@ -46,7 +46,7 @@
   <!-- GitHub Streak Stats Card -->
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Abdullah-Almsaodi&theme=dark" />
-    <img src="https://streak-stats.demolab.com?user=DenverCoder1&theme=default" />
+    <img src="https://streak-stats.demolab.com?user=Abdullah-Almsaodi&theme=default" alt="Abdullah's GitHub Streak" />
 </picture>
   
   <br /> <!-- Add spacing -->
